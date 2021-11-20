@@ -1,0 +1,54 @@
+*{
+box-sizing: border-box;
+}
+
+.font{
+    color: #ffff;}
+
+body{
+    text-align: center;
+    background-color: rgb(0,3,3);
+    background-image: url("source/bg.jpg");
+    background-position: 100% top;
+    background-size: 100% 350%;
+    
+
+}
+
+body #nb{
+    position: sticky;
+    padding: 0;
+    width:100%;
+    margin: auto;
+    margin-top: 0%;
+    top: 0;
+    left: 0;
+    background-color: rgba(5,3,3,0.5);
+    border:4px dotted rgba(0,3,3,0.5);
+    
+    
+    
+}
+.division {
+    color: rgb(99,0,100)
+}
+.nbi{
+    color: rgb(255,255,255);
+    text-decoration: none;
+    
+}
+
+body #nb .nbi:hover{
+    color: rgb(155,0,255);
+    
+}
+
+
+#botão{
+    margin: 0
+
+}
+
+#select {
+    color: rgb(99,0,255);
+}
