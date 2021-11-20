@@ -8,7 +8,7 @@ box-sizing: border-box;
 body{
     text-align: center;
     background-color: rgb(0,3,3);
-    background-image: url("source/bg.jpg");
+    background-image: url("./bg.jpg");
     background-position: 100% top;
     background-size: 100% 350%;
     
